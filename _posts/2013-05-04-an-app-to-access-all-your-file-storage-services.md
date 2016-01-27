@@ -1,6 +1,14 @@
 ---
 published: false
+layout: post
+excerpt: Two systems to unify your cloud storages.
+tags: 
+  - cloud
+  - storage
+modified: 2013-05-04T00:00:00.000Z
+comments: true
 ---
+
 
 ## A virtual desktop to access all your cloud data 
 
