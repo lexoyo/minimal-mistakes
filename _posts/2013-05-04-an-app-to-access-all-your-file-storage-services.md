@@ -13,10 +13,6 @@ comments: true
   - creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 ---
 
-
-
-## A virtual desktop to access all your cloud data 
-
 Here is [an app to access all your file storage services](http://www.zeropc.com/).
 
 It is just like an operating system in the browser, and the hard drives are your cloud services - dropbox, google drive, skydrive, etc., your social networks and your photo storage services - flickr, picassa, etc.
