@@ -13,6 +13,4 @@ comments: true
   - creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 ---
 
-
-
 [Silex v2, status update](http://the.webapp.cat/silex-v2-status-update)
