@@ -5,8 +5,12 @@ excerpt: Two systems to unify your cloud storages.
 tags: 
   - cloud
   - storage
-modified: {}
+modified: 2013-05-04T00:00:00.000Z
 comments: true
+"-image": 
+  - feature: "sample-image-4.jpg"
+  - credit: WeGraphics
+  - creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
 ---
 
 
