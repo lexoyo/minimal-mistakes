@@ -24,4 +24,4 @@ A virtual desktop to access all your cloud data
 
 The experience is the same as the [oneye virtual desktop](http://oneye-project.org/), but with an access to all the SaaS services you use.
 
-![ob_582f3b75f68ffdeb3da6893624b8af6b_desktop-png.png]({{site.baseurl}}/_posts/ob_582f3b75f68ffdeb3da6893624b8af6b_desktop-png.png)
+![oneye-project.png]({{site.baseurl}}/images/oneye-project.png)
