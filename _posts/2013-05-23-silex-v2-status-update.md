@@ -15,5 +15,4 @@ comments: true
 
 [Silex v2, status update](http://the.webapp.cat/silex-v2-status-update)
 
-![ob_567865347f44bc178be9508bf77c84fd_render-02-png.png]({{site.baseurl}}/_posts/ob_567865347f44bc178be9508bf77c84fd_render-02-png.png)
-
+![logo-silex-white.png]({{site.baseurl}}/images/logo-silex-white.png)
