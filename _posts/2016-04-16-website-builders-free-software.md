@@ -10,7 +10,7 @@ The word "website builder" may have multiple meanings but it has evolved today t
 
 So it clearly does not include [Wordpress](https://wordpress.org/), [Joomla](https://www.joomla.org/) and the members of the huge CM familly, which are usually free software and requires quite a bit of coding in order to do design but are great tools to edit lots of content (hence the name, Content Management Software).
 
-![Wordpress user interface](../images/wordpress-screenshot.png)
+![Wordpress user interface](../images/wordpress-screenshot.jpg)
 
 It does include the great but declining familly of installed - sometime called heavy, desktop applications like [BlueGriffon](http://bluegriffon.org/), [Adobe Dreamweaver](http://www.adobe.com/products/dreamweaver.html). **But today the website builder world is clearly dominated by web proprietary applications like [Wix](http://www.wix.com/), [Squarespace](https://www.squarespace.com/) and co.** These are "SaaS" and "Freemium" services, which offer a great way to design websites with the mouse and little technical knowledge. They also lock the user in a solution and force them to use their paid __and expensive__ hosting. In some cases, the company monetize the visiitors of the websites created with their tool, either sacrificing their privacy or exposing them to ads.
 
