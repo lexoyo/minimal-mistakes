@@ -18,7 +18,8 @@ It does include the great but declining familly of installed - sometime called h
 
 So now let's be serious, this kind of tool, which puts the internet users in a position where they are the product, need a free and open source alternative:
 * Facebook has [Diaspora](https://joindiaspora.com/)
-* 
+* Gmail has [Roundcube](https://roundcube.net/)
+* Dropbox and Google Drive have [OwnCloud](https://owncloud.org/)
 * and a French non profit organization is trying to "De-google-ify Internet", [meet Framasoft](https://degooglisons-internet.org/?l=en)
 
 So now there is this other [French non profit organization Silex Labs](http://www.silexlabs.org), **they have developed collaboratively a tool to teach people web design, and it turns out that it is a very good free software alternative to proprieatary website builders. [I present to you Silex, the free and open source website builder](http://www.silex.me/)**
