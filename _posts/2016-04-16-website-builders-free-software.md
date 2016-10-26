@@ -1,3 +1,18 @@
+---
+published: true
+layout: post
+excerpt: Website builders are mainstream, and now there is a free software alternative
+tags:
+  - web design
+  - website builder
+  - silex
+comments: true
+"-image":
+  - feature: "logo-silex-white.jpg"
+  - credit: WeGraphics
+  - creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
+---
+
 # Website builders are mainstream, and now there is a free software alternative
 
 The word "website builder" may have multiple meanings but it has evolved today toward something different from the traditional CMS.
